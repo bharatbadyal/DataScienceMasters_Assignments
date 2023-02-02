@@ -1,0 +1,50 @@
+Q1. Who developed Python Programming language?
+Ans. Guido van Rossum
+
+Q2. Which type of Programming does Python support?
+Ans. Python support Multi-Paradigm Programming(like Object-oriented Programming, structured programing).
+
+Q3. Is python case sensitive when dealing with identifiers?
+Ans. Python is case-sensitive language. eg.  person_name and Person_Name are different identifier with having their own memory space.
+
+Q4. What is the correct extension of the Python file?
+Ans. file_name.py is the correct python correct extension.
+
+Q5. Is python code compiled or interpreated?
+Ans. Python code is interpreated. The source code of a python program is converted into bytecode then it get  execute by Python Virtual Machine.
+
+Q6. Name a few blocks of code used to define in Python Language?
+Ans. A module, a function and a Class defination.
+
+Q7. State a character used to give single-line comments in python?
+Ans. Hash character:- #
+
+Q8. Mention functions which can help us to find the version of python that we are currently working on?
+Ans. python --version
+
+Q9. Python supports the creation of anonymous functions at runtime, using a construct called________?
+Ans. Lamda
+
+Q10. What does pip stand for python?
+Ans. preferred installer program
+
+Q11. Mention a few built-in functions in python?
+Ans. print(), type(), input(), len(), abs(), round() etc..
+
+Q12. What is the maximum possible length of an identifier in python?
+Ans. 79 Characters
+
+Q13. What are the benifites of using python?
+Ans. 1) Easy to learn
+    2) Community
+    3) Abundance of libraries and frameworks
+    4) Versatility, Efficiency, Reliability etc.. 
+
+Q14. How is memory managed in Python?
+Ans. Memory Management in Python involves a private heap containing all Python objects and data structures. 
+
+Q15. How to install Python on Windows and set path variables?
+Ans. There are multiple resourses on internet to guide us in python installation. Process is lenghty to write so I'm skiping this question.
+
+Q16. is identation required in python?
+Ans. Yes, Python uses identation to indicate a block of code.
